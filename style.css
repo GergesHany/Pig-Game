@@ -169,3 +169,22 @@ main {
 .hidden {
   display: none;
 }
+
+.btn--start {
+  top: 39.3rem;
+  margin-top: 25rem;
+}
+
+.btn--start:hover {
+  background-color: #c7365f;
+  color: #fff;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 300;
+  text-transform: capitalize;
+  color: white;
+  margin-bottom: 1rem;
+  text-align: center;
+}
